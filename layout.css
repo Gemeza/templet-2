@@ -13,7 +13,7 @@
 	clear: both;
 }
 .banner{
-	background: url(../.layout.web/images/banner.jpg);
+	background: url(../web/images/banner.jpg);
 	background-size: cover;
 	height: 100vh;
 	width: 100%;
